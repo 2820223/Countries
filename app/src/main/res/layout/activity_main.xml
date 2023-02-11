@@ -108,6 +108,7 @@
 
     <ImageView
         android:id="@+id/main"
+        android:scaleType="fitXY"
         android:layout_width="330dp"
         android:layout_height="500dp"
         app:layout_constraintBottom_toBottomOf="parent"
